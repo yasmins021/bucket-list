@@ -22,7 +22,7 @@ To run the React Bucket List application locally, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/react-bucket-list.git
+https://github.com/yasmins021/bucket-list.git
 ```
 
 2. Navigate to the project directory:
